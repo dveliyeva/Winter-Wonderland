@@ -1,4 +1,4 @@
-# Winter-Wonderland
+# Processing Winter-Wonderland Simulation
 This is an interactive program created using Processing, that depicts a winter wonderland. 
 
 The Winter Wonderland program shows a scenery filled with snowy slopes with a pine tree. There is snow falling slowly throughout the whole scenery. There is also an image of a snowman with a color changing background when the user continuously drags the mouse in the window. This simulation is supposed to give a glimpse of what a winter get away would look like.
